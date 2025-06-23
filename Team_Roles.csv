@@ -1,6 +1,0 @@
-Name,Role,Primary_Tool,Responsibility
-Ravi,Data Scientist,Python,Build ML models
-Anjali,Data Engineer,Spark,Ingest & transform raw data
-Priya,Analyst,Power BI,Create dashboards
-Karan,DBA,PostgreSQL,Manage databases
-Sweta,ML Engineer,TensorFlow,Deploy ML models
